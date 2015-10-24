@@ -2,8 +2,8 @@
 ## CAP Theorem
 ![CAP](/img/CAP.png)
 
-* **Consistency** is pretty much as we’ve defined it so far. 
-* **Availability** has a particular meaning in the context of CAP—it means that if you can talk to a node in the cluster, it can read and write data. That’s subtly different from the usual meaning, which we’ll explore later. 
+* **Consistency** all nodes see the same data at the same time.
+* **Availability** a guarantee that every request receives a response about whether it succeeded or failed. It means that IF you can talk to a node in the cluster, THEN it can read and write data. If you cannot talk to a node, then there is no requirement for the db read or write data. It is subtly different from usual meaning. 
 * **Partition tolerance** means that the cluster can survive communication breakages in the cluster that separate the cluster into multiple partitions unable to communicate with each other (situation known as a split brain).
 
 ## Data Partitioning
