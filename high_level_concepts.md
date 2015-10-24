@@ -7,7 +7,7 @@ Database transaction.
 * **Durability.** Durability means that once a transaction has been committed, it will remain so, even in the event of power loss, crashes, or errors.
 
 ## CAP Theorem
-![CAP](/img/CAP.png =250x)
+<img src="/img/CAP.png" alt="CAP" style="width: 400px;" align="center"/>
 
 * **Consistency** all nodes see the same data at the same time.
 * **Availability** a guarantee that every request receives a response about whether it succeeded or failed. It means that IF you can talk to a node in the cluster, THEN it can read and write data. If you cannot talk to a node, then there is no requirement for the db read or write data. It is subtly different from usual meaning. 
