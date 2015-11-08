@@ -8,8 +8,8 @@
    * [Distributed System](distributed_system.md)
    * [Hash](hash.md)
 * [Data Process](data_process.md)
+   * [Map Reduce](map_reduce.md)
    * [High Level Concept](high_level_concept_data_process.md)
-* [Map Reduce](map_reduce.md)
 * Traffic
 * [Reference](reference.md)
 
