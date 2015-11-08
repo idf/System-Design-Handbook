@@ -6,6 +6,6 @@
    * [NoSql Fundamental](nosql_fundamental.md)
    * [Distributed System](distributed_system.md)
    * [Map Reduce](map_reduce.md)
-   * Hash
+   * [Hash](hash.md)
 * [Reference](reference.md)
 
