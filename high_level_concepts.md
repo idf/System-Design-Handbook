@@ -1,4 +1,4 @@
-# High-Level Concepts
+# Data Store
 ## ACID Properties
 Database transaction. 
 * **Atomicity.** Atomicity requires that each transaction be "all or nothing": if one part of the transaction fails, the entire transaction fails, and the database state is left unchanged. 
