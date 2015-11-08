@@ -1,11 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-   * Hash
 * [High Level](high_level.md)
    * [High Level Concepts](high_level_concepts.md)
    * [NoSql Fundamental](nosql_fundamental.md)
    * [Distributed System](distributed_system.md)
    * [Map Reduce](map_reduce.md)
+* Hash
 * [Reference](reference.md)
 
