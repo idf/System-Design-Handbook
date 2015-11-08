@@ -2,7 +2,8 @@
 ### Design the system to scale and make the greatest impact. 
 
 
-View GitBook @ https://idf-shadow.gitbooks.io/sytem-design-hanbook/content/
+* View GitBook @ https://idf-shadow.gitbooks.io/sytem-design-hanbook/content/
+* View Source @ https://github.com/idf/System-Design-Handbook/
 
 Contributor Lists:
 
