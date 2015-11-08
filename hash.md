@@ -7,5 +7,10 @@ $$
 \lceil\log_{64}{6e9}\rceil = \lceil5.4\rceil = 6
 $$
 
+#### Bytes and scale
+* 1M (million): 1MB
+* 1B (million): 1GB
+* 1T (trillion): 1TB
+
 
 
