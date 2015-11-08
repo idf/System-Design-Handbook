@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Challenges](challenges.md)
-* [High Level](high_level.md)
+* [Data Store](data_store.md)
    * [High Level Concepts](high_level_concepts.md)
    * [NoSql Fundamental](nosql_fundamental.md)
    * [Distributed System](distributed_system.md)
