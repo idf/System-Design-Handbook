@@ -11,7 +11,7 @@
    * [High Level Concept](highlevel_concept_data_process_md.md)
    * [Map Reduce](map_reduce.md)
 * [Traffic](traffic.md)
+   * [Load Balancer](load_balancer.md)
    * Introduction
-* [Load Balancer](load_balancer.md)
 * [Reference](reference.md)
 
