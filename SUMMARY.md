@@ -12,5 +12,6 @@
    * [Map Reduce](map_reduce.md)
 * [Traffic](traffic.md)
    * [Load Balancer](load_balancer.md)
+   * Cache
 * [Reference](reference.md)
 
