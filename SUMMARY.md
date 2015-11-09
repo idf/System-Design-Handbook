@@ -13,7 +13,7 @@
 * [Traffic](traffic.md)
    * [Load Balancer](load_balancer.md)
    * [Cache](cache.md)
-* Celery
 * [Asynchronism](asynchronism.md)
+* Celery
 * [Reference](reference.md)
 
