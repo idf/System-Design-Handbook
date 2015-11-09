@@ -14,5 +14,6 @@
    * [Load Balancer](load_balancer.md)
    * [Cache](cache.md)
 * [Asynchronism](asynchronism.md)
+   * Celery
 * [Reference](reference.md)
 
