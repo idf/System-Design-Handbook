@@ -4,7 +4,7 @@
 * [Challenges](challenges.md)
 * [Data Store](data_store.md)
    * [High Level Concepts](high_level_concepts.md)
-   * Load Balancer
+   * [Load Balancer](load_balancer.md)
    * [NoSql Fundamental](nosql_fundamental.md)
    * [Distributed System](distributed_system.md)
    * [Hash](hash.md)
